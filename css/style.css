@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   background-color: #1e1f24;
   font-family: Arial;
   color: #333;
@@ -6,6 +7,14 @@ body {
   font-size: 16px;
   margin: 0;
   padding: 0;
+=======
+    font-family: Arial;
+    color: #333;
+    text-align: center;
+    font-size:16px;
+    margin: 0;
+    padding: 0;
+>>>>>>> footer
 }
 #cabecera {
   background: #36488b;
@@ -39,7 +48,22 @@ body {
   font-size: 20px;
 }
 
+<<<<<<< HEAD
 #post {
   padding: 1em;
   background: white;
 }
+=======
+#cabecera #tagline{
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+}
+>>>>>>> footer
